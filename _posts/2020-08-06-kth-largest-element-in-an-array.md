@@ -5,10 +5,10 @@ date:   2020-08-06 08:45:12 +0200
 categories:
   - Medium
 tags:
-  - Divide and Conquer
+  - divide-and-Conquer
   - heap
 ---
-Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
+Find the **k**th largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
 ## Example 1:
 
