@@ -19,19 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Solving Problems (in Kotlin)
-email: your-email@example.com
+email: solvingproblemsinkotlin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Interview problems solved in Kotlin. Level up your coding skills and quickly land a job.
   This is the best place to expand your knowledge and get prepared for your next interview.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  artjimlop
+
+author:
+  name: Arturo Jimenez
+  twitter: arturoDamavik
+  picture: https://media-exp1.licdn.com/dms/image/C4D03AQEOMkGSdHpxDw/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=qrg1U8mbr14wdwWQ-eKejKupbqwZEJS2roIAbSKQU-4
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
