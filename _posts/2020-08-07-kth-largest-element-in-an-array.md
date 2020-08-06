@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "Longest Univalue Path"
+title:  "Kth largest element in an array"
 date:   2020-08-06 08:45:12 +0200
 categories:
   - Medium
 tags:
-  - divide-and-Conquer
+  - divide and conquer
   - heap
 ---
 Find the **k**th largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.
 
 ## Example 1:
 
-Input:
 {% highlight kotlin %}
 
 Input: [3,2,1,5,6,4] and k = 2
@@ -21,6 +20,8 @@ Input: [3,2,1,5,6,4] and k = 2
 {% endhighlight %}
 
 ## Example 2:
+
+{% highlight kotlin %}
 
 Input: [3,2,3,1,2,4,5,5,6] and k = 4
 
