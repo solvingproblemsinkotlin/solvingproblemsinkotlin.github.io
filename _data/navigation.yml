@@ -1,5 +1,7 @@
 - title: Posts
   url: /posts/
+- tags: Tags
+  url: /tags/
 - title: Categories
   url: /categories/
 - title: Search
