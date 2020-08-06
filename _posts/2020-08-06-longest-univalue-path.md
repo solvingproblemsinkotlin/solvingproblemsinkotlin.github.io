@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Longest Univalue Path"
-date:   2020-08-06 08:45:12 +0200
+date:   2020-08-06 09:45:12 +0200
 categories:
   - Easy
 tags:
@@ -29,7 +29,6 @@ Input:
 
 ## Example 2:
 
-Input:
 {% highlight kotlin %}
 
        1
