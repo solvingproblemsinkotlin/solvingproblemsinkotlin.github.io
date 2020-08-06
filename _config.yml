@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Interview problems solved in Kotlin. Level up your coding skills and quickly land a job.
   This is the best place to expand your knowledge and get prepared for your next interview.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://artjimlop.github.io/solvingproblems/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
