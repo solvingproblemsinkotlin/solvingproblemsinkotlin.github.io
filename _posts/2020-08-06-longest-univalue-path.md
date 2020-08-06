@@ -95,9 +95,9 @@ class Solution {
 
 ## Complexity Analysis
 
-_Time Complexity_: O(N)O(N), where NN is the number of nodes in the tree. We process every node once.
+_Time Complexity_: O(N), where N is the number of nodes in the tree. We process every node once.
 
-_Space Complexity_: O(H)O(H), where HH is the height of the tree. Our recursive call stack could be up to HH layers deep.
+_Space Complexity_: O(H), where H is the height of the tree. Our recursive call stack could be up to HH layers deep.
 
 # Let's analyze the code
 
